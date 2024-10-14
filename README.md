@@ -1,2 +1,2 @@
 # ZyTyLyChallenge
-Code for a library program, maded in Python, MySQL, RestApi and Docker
+Challenge code for a library app, backend made in Python, MySQL (provided by evaluator), RestApi and Docker
